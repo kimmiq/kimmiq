@@ -21,7 +21,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://static.wikia.nocookie.net/nyancat/images/9/9b/Mrsnyan.gif/revision/latest?cb=20210501053506?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/87584ed9e483ea9247b03a32dc863209/tumblr_n6vl7bvdxa1r922azo1_500.gifv?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
