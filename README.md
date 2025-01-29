@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### ку! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -14,12 +14,6 @@
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br />
-
-Привет, меня зовут kimmi, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
-
-<br />
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/87584ed9e483ea9247b03a32dc863209/tumblr_n6vl7bvdxa1r922azo1_500.gifv?raw=true" width="400" height="280" />
   
